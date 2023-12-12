@@ -12,7 +12,7 @@ Practice for epigenome wide association sutdy including QC, DMP, DMR and meQTL.
   3. meQTL analysis 
 
 * **Required R packages**
-  |Package Name|Installation R code|
+  |Package Name|R code installation |
   |------------|-------------------|
   |ewastools   |remotes::install_github("hhhh5/ewastools")|
   |illuminaio  |BiocManager::install("illuminaio")|

@@ -16,6 +16,7 @@ Practice for epigenome wide association sutdy including QC, DMP, DMR and meQTL.
   |------------|-------------------|
   |ewastools   |remotes::install_github("hhhh5/ewastools")|
   |illuminaio  |BiocManager::install("illuminaio")|
+  |lumi        |BiocManager::install("lumi")|
   |svd         |install.packages("svd")|
   |data.table  |install.packages("data.table")|
   |dplyr       |install.packages("data.table")|

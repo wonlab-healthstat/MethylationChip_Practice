@@ -1,7 +1,7 @@
 # MethylationChip_Practice
 Practice for epigenome wide association sutdy including QC, DMP, DMR and meQTL. 
 * **Data** <br />
-  Blood samples from 60 individuals (30 controls, 30 cases) <br />
+  Blood samples from 60 individuals (34 controls, 26 cases) <br />
   1. Methylation data : EPIC BeadChip 850K - idat files in `idats` folder
   2. Genotype data : KoreanChip - txt file in `SNPdata` (preprocessed)
   3. Phenotype data : Disease, Age, Sex (randomly assigned)

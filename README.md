@@ -19,7 +19,7 @@ Practice for epigenome wide association sutdy including QC, DMP, DMR and meQTL.
   |lumi        |BiocManager::install("lumi")|
   |svd         |install.packages("svd")|
   |data.table  |install.packages("data.table")|
-  |dplyr       |install.packages("data.table")|
+  |dplyr       |install.packages("dplyr")|
   |limma       |BiocManager::install("limma")|
   |DMRcate     |BiocManager::install("DMRcate")|
   |MatrixEQTL  |install.packages("MatrixEQTL")|

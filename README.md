@@ -7,7 +7,7 @@ Practice for epigenome wide association sutdy including QC, DMP, DMR and meQTL.
   3. Phenotype data : Disease, Age, Sex (randomly assigned)
 
 * **Tutorial workflow** <br />
-  1. QC of
+  1. QC of methyaltion data
   2. DMP and DMR analysis
   3. meQTL analysis 
 
